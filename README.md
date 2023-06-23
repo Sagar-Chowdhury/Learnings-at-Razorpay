@@ -48,5 +48,8 @@
        - Mail attachments are sent to the backend by **base64 encoding**.
        - Mailbox is fetched via API.
      - All styling achieved using **ng-bootstrap**.    
- 4. [Project Repo](https://github.com/Sagar-Chowdhury/Email-Client-Frontend.git)              
-            
+ 4. [ Project Repo ](https://github.com/Sagar-Chowdhury/Email-Client-Frontend.git)              
+ ### Week 3 (21st June - 28th June , 2023) 
+ 1. Successfully cloned Rewads-hub-portal on my local mac.
+ 2. Vikalp guided me in **migrating the Angular version from v8 - v12**
+ 3. Started exploring the agent portal to gain insights about **missing features and bugs**.
