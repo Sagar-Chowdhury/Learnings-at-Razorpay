@@ -17,7 +17,7 @@
            - Receiving response
       - RxJs
            - Understood the concept of Observable and Observer
-           - Used common operators like ShareReplay, CatchError, of, from and others
+           - Used common operators like ShareReplay, CatchError, of, from, and others
            - Understood their use via code.
       - Routing
            - Basics of Routing
@@ -32,5 +32,21 @@
            - Reactive Forms
               - Used Built-in Validators
                       
-  4. These learnings are roughly implemented in [repo.](https://github.com/Sagar-Chowdhury/LearningAngular.git)           
+  4. These learnings are roughly implemented in [repo.](https://github.com/Sagar-Chowdhury/LearningAngular.git)
+  
+### Week 2 (14th June - 21th June , 2023)
+1. I Got assigned a project.
+2. Started working on an Email Client, for which I had to make the front-end.
+3. The **Project details** are
+     - The app opens on the login page
+     - The user may decide to signup, so a proper navigation facility is provided using routing.
+     - All appropriate error/failure messages are shown using **Toasts(made using ngx-toast)**
+     - On successful login user is redirected to the **inbox page**
+     - Session management is achieved using an **Authentication token**, gotten from response headers.
+     - **Route guards** ensure the user cannot access the inbox page prior to login.
+     - The inbox page has a **mailbox** and a **compose mail** section.
+       - Mail attachments are sent to the backend by **base64 encoding**.
+       - Mailbox is fetched via API.
+     - All styling achieved using **ng-bootstrap**.    
+ 4. [Project Repo](https://github.com/Sagar-Chowdhury/Email-Client-Frontend.git)              
             
