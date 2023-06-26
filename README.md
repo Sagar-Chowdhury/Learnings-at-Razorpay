@@ -54,3 +54,4 @@
  2. Vikalp guided me in **migrating the Angular version from v8 - v12**
  3. Started exploring the agent portal to gain insights about **missing features and bugs**.
  4. Through the weekend got insights into how **bootstrap** works, and also jotted down some issues in the agent portal.
+ 5. Migrated to **Angular Version 14**.
