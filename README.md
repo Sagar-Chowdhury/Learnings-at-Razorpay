@@ -55,3 +55,20 @@
  3. Started exploring the agent portal to gain insights about **missing features and bugs**.
  4. Through the weekend got insights into how **bootstrap** works, and also jotted down some issues in the agent portal.
  5. Migrated to **Angular Version 14**.
+ 6. Completed [**Namaste Javascript**](https://youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) playlist.
+      - Got an extensive idea of the following, with coding illustrations
+        - Javascript execution environment, and how JS is executed
+        - **Hoisting**
+        - **var,let,const** in JS and their scope, Block Scope , **Temporal Dead Zone** 
+        - **Scope and Lexical Environment** in JS and how it works
+        - Undefined v/s Not defined in JS
+        - **Closures**
+        - Functions as **First Class Citizens**
+        - **Web APIS** , and accessing them via global **Window object**
+        - **Event Loops**, **CallBack Queues** and **MicroTask queues** in JS.
+        - JS Engine inside browsers , also learned how **Googles V8** engine works on a high level
+        - **Asynchronous** tasks
+          - Using **Callbacks**
+            - Understood its Shortcomings and also how Inversion Of Control Works.
+          - Using **Promises**
+            - Learned its usage and advantages of being immutable
