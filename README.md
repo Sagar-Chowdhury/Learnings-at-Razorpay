@@ -74,3 +74,9 @@
             - Understood its Shortcomings and also how Inversion Of Control Works.
           - Using **Promises**
             - Learned its usage and advantages of being immutable
+  2. Changes that made it to ***production***.
+     - Branch where I migrated from **Angular v12-v14 merged**.
+     - **Drop down lists and popovers** were not fully functional in the homepage of both mobile and desktop versions , so fixed that.
+     - Earlier **concierge client list** was hard coded , now are being fetched from an API.
+     - Earlier there was no option to chose **client projects** , now there is fetched projects from an API.
+     - Made necessary UI changes to accomodate the above two changes.
