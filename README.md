@@ -75,8 +75,9 @@
           - Using **Promises**
             - Learned its usage and advantages of being immutable
   2. Changes that made it to ***production***.
-     - Branch where I migrated from **Angular v12-v14 merged**.
-     - **Drop down lists and popovers** were not fully functional in the homepage of both mobile and desktop versions , so fixed that.
-     - Earlier **concierge client list** was hard coded , now are being fetched from an API.
-     - Earlier there was no option to chose **client projects** , now there is fetched projects from an API.
-     - Made necessary UI changes to accomodate the above two changes.
+     - Branch, where I migrated from **Angular v12-v14, merged**.
+     - **Drop-down lists and popovers** were not fully functional on the homepage of both mobile and desktop versions, so fixed that.
+     - Earlier **concierge client list** was hard coded, now is being fetched from an API.
+     - Earlier there was no option to choose **client projects**, now there are fetched projects from an API.
+     - Made necessary UI changes to accommodate the above two changes.
+     - Added the newly fetched project-id to headers, of all further HTTP requests via **interceptors**. 
