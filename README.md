@@ -80,4 +80,8 @@
      - Earlier **concierge client list** was hard coded, now is being fetched from an API.
      - Earlier there was no option to choose **client projects**, now there are fetched projects from an API.
      - Made necessary UI changes to accommodate the above two changes.
-     - Added the newly fetched project-id to headers, of all further HTTP requests via **interceptors**. 
+     - Added the newly fetched project-id to headers, of all further HTTP requests via **interceptors**.
+  ###  Week 5 (5th July - 12th July , 2023)
+   1. Started Work on the **Booking History Page**.
+   2. Fixed Some **query endpoint parameters** being sent, to fetch filtered lists by various categories.
+   3. Added names to some earlier anonymous list columns, and did necessary changes to ui.
