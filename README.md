@@ -85,3 +85,11 @@
    1. Started Work on the **Booking History Page**.
    2. Fixed Some **query endpoint parameters** being sent, to fetch filtered lists by various categories.
    3. Added names to some earlier anonymous list columns, and did necessary changes to ui.
+   4. Added **Created** filter in status filter of booking history.
+   5. **Ng-Bootstrap components** were not functioning properly , to fix it
+      - Migrated to **Bootstrap 5**
+      - Made necessary imports 
+   6. Started work on ***Displaying Payments and Refunds data*** , along with their transactions via a **Modal and Accordions**.
+      - Added a new column in booking history.
+      - On click , triggers a modal ,showing payment details and their transactions in a table.
+ ###  Week 6 (12th July - 19th July , 2023)
