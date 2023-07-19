@@ -85,11 +85,30 @@
    1. Started Work on the **Booking History Page**.
    2. Fixed Some **query endpoint parameters** being sent, to fetch filtered lists by various categories.
    3. Added names to some earlier anonymous list columns, and did necessary changes to ui.
-   4. Added **Created** filter in status filter of booking history.
-   5. **Ng-Bootstrap components** were not functioning properly , to fix it
+   4. Added **Created** filter in the status filter of booking history.
+   5. **Ng-Bootstrap components** were not functioning properly, to fix it
       - Migrated to **Bootstrap 5**
       - Made necessary imports 
    6. Started work on ***Displaying Payments and Refunds data*** , along with their transactions via a **Modal and Accordions**.
       - Added a new column in booking history.
-      - On click , triggers a modal ,showing payment details and their transactions in a table.
+      - On click, triggers a modal, showing payment details and their transactions in a table.
  ###  Week 6 (12th July - 19th July , 2023)
+   1. Continued work on displaying **payments and refund data** along with their transactions.
+   2. Made modifications to the modal UI, for a better UX using **cards, shadows, and proper Accordions**.
+   3. So the design finalized was
+      - Payments
+      - Transaction Table
+      - Refunds Drop-down accordion(**fetches data only when opened**)
+      - Everything was encapsulated in a card for a particular payment (note: there can be multiple payments for a particular booking id)
+      - All this is shown inside a **modal** which is triggered by a button click in booking history (each modal was **labeled by a unique booking id**)
+   4. Designed a local caching mechanism where the refunds data are **cached corresponding to the payment-id ,until modal is dismissed** as it prevents **multiple api calls** is refunds accordion is closed and opened.
+   5. Worked on some other minor issues
+      - Changed the **z-index** of toast to display over modal( error toasts mostly)
+      - Added some margins to improve UI in some places.
+      - Tested and took precautions for API fetch failure for payments and refunds data.
+      - Add **error toasts** for both client and project fetching during login.
+   6. Participated in **code reviews** with my buddy and finally my branch got **merged**, deploying changes to the sandbox and to production eventually.
+   7. Glimpse of the UI above
+    ![image](https://github.com/Sagar-Chowdhury/Learnings-at-Razorpay/assets/76145064/47e30cdf-0654-4a99-a9ce-3b9b3e2a7bd1)
+ ###  Week 7 (19th July - 26th July , 2023)
+   1. Began Work on **Send payment link** feature.
