@@ -108,7 +108,7 @@
       - Tested and took precautions for API fetch failure for payments and refunds data.
       - Add **error toasts** for both client and project fetching during login.
    6. Participated in **code reviews** with my buddy and finally my branch got **merged**, deploying changes to the sandbox and to production eventually.
-   7. Glimpse of the UI above
+   7. Glimpse of the UI 
     ![image](https://github.com/Sagar-Chowdhury/Learnings-at-Razorpay/assets/76145064/47e30cdf-0654-4a99-a9ce-3b9b3e2a7bd1)
  ###  Week 7 (19th July - 26th July , 2023)
    1. Began Work on **Send payment link** feature.
