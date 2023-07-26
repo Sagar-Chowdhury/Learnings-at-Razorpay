@@ -112,3 +112,9 @@
     ![image](https://github.com/Sagar-Chowdhury/Learnings-at-Razorpay/assets/76145064/47e30cdf-0654-4a99-a9ce-3b9b3e2a7bd1)
  ###  Week 7 (19th July - 26th July , 2023)
    1. Began Work on **Send payment link** feature.
+   2. Integrated the **initiate refund** functionality by adding a column to the booking history.
+      - Added necessary checks to ensure that the refund amount is valid.
+      - Rewrote the api call, using **pipes and catchError**.
+      - Added **success and failure toasts** to the api call, also ensured modal dismisses on completion.
+   3. Designed the **email template** , to be sent to the user,on the transaction completion.
+   4. Began Work on implementing **Pagination** in the booking history.
