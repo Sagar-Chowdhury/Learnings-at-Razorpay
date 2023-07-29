@@ -118,3 +118,14 @@
       - Added **success and failure toasts** to the api call, also ensured modal dismisses on completion.
    3. Designed the **email template** , to be sent to the user,on the transaction completion.
    4. Began Work on implementing **Pagination** in the booking history.
+ ###  Week 8 (26th July - 2nd August, 2023)
+   1. Finalized work on the **Pagination feature**, and tested all use-case scenarios.
+      - Added **boundary links** (for quick navigation to the first and last page)
+      - Added visible page rotation in about 8-page radius from the current, for avoiding a large pages list.
+   2. Raised PR and got approved by my mentor, for the above change.
+   3. Integrated functionality for **fetching refund details via booking-id**, so as to make it displayable in the initiate refund modal.
+      - Added a drop-down accordion for the same in the initiate refund modal.
+   4. The booking history table was getting **overwhelmed with lot of columns**(i.e. visible parameters w.r.t. a booking)
+      - To address this replaced **three date columns by a single column** with drop-down to see any date parameter as wish(i.e.Confirmed At, Created At and Updated At)
+      - Some sections were large so added a **functionality to toggle their visibility** as per wish.
+      
