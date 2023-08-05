@@ -1,6 +1,7 @@
 # Weeky Learnings/Progress at Razorpay.
 
 ![1685697804242](https://github.com/Sagar-Chowdhury/Learnings-at-Razorpay/assets/76145064/1bbf4e5f-0adf-4cb6-95c7-853d3e7bf01c)
+![Screenshot 2023-08-05 160741](https://github.com/Sagar-Chowdhury/Learnings-at-Razorpay/assets/76145064/f44d5a9d-8a72-4d16-91ea-94da6662e933)
 
 ### Week 1 (7th June - 14th June , 2023)
 1. Started Learning TypeScript Basics.
