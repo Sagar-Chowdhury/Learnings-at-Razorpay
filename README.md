@@ -101,7 +101,7 @@
       - Refunds Drop-down accordion(**fetches data only when opened**)
       - Everything was encapsulated in a card for a particular payment (note: there can be multiple payments for a particular booking id)
       - All this is shown inside a **modal** which is triggered by a button click in booking history (each modal was **labeled by a unique booking id**)
-   4. Designed a local caching mechanism where the refunds data are **cached corresponding to the payment-id ,until modal is dismissed** as it prevents **multiple api calls** is refunds accordion is closed and opened.
+   4. Designed a local caching mechanism where the refunds data are **cached corresponding to the payment-id,until the modal is dismissed** as it prevents **multiple api calls** is refunds accordion is closed and opened.
    5. Worked on some other minor issues
       - Changed the **z-index** of toast to display over modal( error toasts mostly)
       - Added some margins to improve UI in some places.
@@ -128,4 +128,6 @@
    4. The booking history table was getting **overwhelmed with lot of columns**(i.e. visible parameters w.r.t. a booking)
       - To address this replaced **three date columns by a single column** with drop-down to see any date parameter as wish(i.e.Confirmed At, Created At and Updated At)
       - Some sections were large so added a **functionality to toggle their visibility** as per wish.
+   5. Finalized out entire work, and had our **final presentation** with the team,  it had a **very positive** response from our team.
+    
       
