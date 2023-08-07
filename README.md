@@ -3,6 +3,12 @@
 ![1685697804242](https://github.com/Sagar-Chowdhury/Learnings-at-Razorpay/assets/76145064/1bbf4e5f-0adf-4cb6-95c7-853d3e7bf01c)
 ![Screenshot 2023-08-05 160741](https://github.com/Sagar-Chowdhury/Learnings-at-Razorpay/assets/76145064/f44d5a9d-8a72-4d16-91ea-94da6662e933)
 
+### Mentor Reviews
+![image](https://github.com/Sagar-Chowdhury/Learnings-at-Razorpay/assets/76145064/fe543f3e-6475-40ce-b780-b3a7fe06f6f6)
+![Screenshot 2023-08-07 at 5 33 47 PM](https://github.com/Sagar-Chowdhury/Learnings-at-Razorpay/assets/76145064/dc782f48-2bd5-49f0-9bc8-d63ff63a73e8)
+
+
+
 ### Week 1 (7th June - 14th June , 2023)
 1. Started Learning TypeScript Basics.
 2. Gradually moved on to Learning Angular, understanding the basics of the framework.
